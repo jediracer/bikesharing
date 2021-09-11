@@ -12,7 +12,7 @@
 
   ![Top Citi Bike Stations](https://github.com/jediracer/bikesharing/blob/main/images/Top_Bike_Stations.png)	
   
-- This map indication the location the most popular Citi Bike Stations in NYC.  The size and color of the marker indicate the frequency the station is used. The majority of the larger dots are clustered in Manhattan.
+- This map indicates the location the most popular Citi Bike Stations in NYC.  The size and color of the marker represent the frequency the station is used. The majority of the larger dots are clustered in Manhattan.
 
 - Checkout Duration:
 
@@ -30,7 +30,7 @@
 
   ![Trips by Weekday per Hour](https://github.com/jediracer/bikesharing/blob/main/images/Trips_by_Weekday_per_Hour.png)	
   
-- This heat map shows the number of trips each day for the week by hour.  The darker color indicates a higher number of trips.  The highest number of trips during the week seem t the during the rush hours.  On the weekends, the traffic is spread out over the daylight hours.
+- This heat map shows the number of trips each day of the week by hour.  The darker color indicates a higher number of trips.  The highest number of trips during the week seem to be the during the morning and evening rush hours.  On the weekends, the traffic is  more evenly spread out over the daylight hours.
 
 - Trips by Weekday per Hour by Gender:
 
