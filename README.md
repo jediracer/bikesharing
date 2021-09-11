@@ -2,6 +2,7 @@
 
 ## Project Overview
 - Create visualizations using Citi Bike Data to determine if a similar service would be profitable in Des Moines.
+ [link to dashboard](https://public.tableau.com/app/profile/jared.behler/viz/NYCCitiBikeAnalysis_16313276583760/NYCCitiBike?publish=yes)
 
 ## Resources
 - Software: Python 3.8.8, Visual Studio Code 1.57.1, Tableau Public
